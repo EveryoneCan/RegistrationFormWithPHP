@@ -158,7 +158,7 @@
                <h2>Registration form</h2>
             </div>
             <div class="col-md-7 col-lg-8">
-               <h4 class="mb-3">Billing address</h4>
+               <h4 class="mb-3">Add Your Details</h4>
                <form class="needs-validation" action="indexnN.php"  method="POST" novalidate>
                   <div class="row g-3">
                      <div class="col-sm-12">
