@@ -154,7 +154,7 @@
       <div class="container">
          <main>
             <div class="py-5 text-center">
-               <img class="d-block mx-auto mb-4" src="img/bootstrap-logo.svg" alt="" width="72" height="57">
+               <!--<img class="d-block mx-auto mb-4" src="img/bootstrap-logo.svg" alt="" width="72" height="57">-->
                <h2>Registration form</h2>
             </div>
             <div class="col-md-7 col-lg-8">
