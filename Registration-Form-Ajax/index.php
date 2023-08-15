@@ -281,7 +281,7 @@
       </div>
       </main>
       <footer class="my-5 pt-5 text-body-secondary text-center text-small">
-         <p class="mb-1">&copy; 2023 Na</p>
+         <p class="mb-1">&copy; 2023 Navindya Denipitiya</p>
       </footer>
       </div>
       <script src="js/bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
